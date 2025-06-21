@@ -1,1 +1,1 @@
-# Plastic-Detection-and-Sorting-Using-Robotic-Arm
+# Plastic Detection and Sorting Using Robotic Arm
